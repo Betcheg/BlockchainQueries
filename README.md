@@ -6,8 +6,16 @@ POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles - IN
 
 ## Screenshots
 
-![Logiciel en écoute](https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/hidden.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/hidden.png" alt="Logiciel en écoute"/> <br>  <i>Logiciel en écoute...</i>
+</p>
+<hr>
 
-![Reception d'une requête visualisée sur etherscan](https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/tx_info_etherscan.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/tx_info_etherscan.png" alt="Reception d'une requête visualisée sur etherscan"/>  <br>  <i>Reception d'une requête visualisée sur etherscan...</i>
+</p>
+<hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/show.png" alt="Logiciel en écoute"/> <br>  <i>Comportement logiciel</i>
+</p>
 
-![Comportement logiciel](https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/show.png)
