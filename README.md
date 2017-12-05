@@ -12,7 +12,7 @@ POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles - IN
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/tx_info.png" alt="Reception d'une requête visualisée sur etherscan"/>  <br>  <i>Reception d'une transaction...</i>
+  <img src="https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/tx_info.png" alt="Reception d'une requête visualisée sur etherscan"/>  <br>  <i>Visualisation de la transaction ajoutée à la blockchain Ethereum...</i>
 </p>
 <hr>
 <p align="center">
