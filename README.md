@@ -1,11 +1,14 @@
 # BlockchainQueries
-## Proof of concept 
+
 
 <p align="center">
   <img src="https://image.noelshack.com/fichiers/2018/20/3/1526482664-screenshot-from-2018-05-16-16-57-06.png" alt="pdf"/> <br>
 </p>
 
+## Proof of concept 
+
 POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles - INF8402 - Ecole  Polytechnique de Montréal
+Voir `requetes-decentralisees-fr.pdf` pour le comportement détaillé 
 
 ## Screenshots
 
