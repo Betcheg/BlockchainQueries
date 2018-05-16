@@ -1,6 +1,5 @@
 # BlockchainQueries
 ## Proof of concept 
-Requêtes décentralisées en utilisant la propagation des transactions dans l'environnement blockchain
 
 <p align="center">
   <img src="https://image.noelshack.com/fichiers/2018/20/3/1526482664-screenshot-from-2018-05-16-16-57-06.png" alt="pdf"/> <br>
