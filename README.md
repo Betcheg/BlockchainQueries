@@ -7,7 +7,8 @@
 
 ## Proof of concept 
 
-POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles - INF8402 - Ecole  Polytechnique de Montréal
+POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles - INF8402 - Ecole  Polytechnique de Montréal.
+
 Voir `requetes-decentralisees-fr.pdf` pour le comportement détaillé 
 
 ## Screenshots
