@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://image.noelshack.com/fichiers/2018/20/3/1526482664-screenshot-from-2018-05-16-16-57-06.png" alt="pdf"/> <br>
+  <img src="https://raw.githubusercontent.com/Betcheg/BlockchainQueries/master/img/pres.png" alt="pdf"/> <br>
 </p>
 
 ## Proof of concept 
