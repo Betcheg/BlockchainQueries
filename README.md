@@ -7,7 +7,7 @@
 
 ## Proof of concept 
 
-POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles - INF8402 - Ecole  Polytechnique de Montréal.
+POC créée dans le cadre du cours Sécurité Des Réseaux Fixes et Mobiles à l'Ecole  Polytechnique de Montréal. Concept imaginé et mis en pratique, puis présenté en amphithéatre.
 
 Le logiciel met la blockchain sur écoute et execute un traitement lorsqu'une transaction est reçue à une certaine adresse.
 
